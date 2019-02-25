@@ -14,6 +14,7 @@ public class MockDB {
 	static {
 		users = new ArrayList<User>();
 		users.add(new Supplier("John Doe", "john.doe@email.com", "P@ssw0rd", 2000));
+		users.add(new Supplier("Jane Doe", "jane.doe@email.com", "P@ssw0rd", 3000));
 		users.add(new Admin("Administratorul", "admin@email.com", "@dmin", "Random Company"));
 	}
 }
