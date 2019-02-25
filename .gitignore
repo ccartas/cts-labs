@@ -1,5 +1,5 @@
 .metadata
 .settings
-bin
+bin/
 *.class
 .project
