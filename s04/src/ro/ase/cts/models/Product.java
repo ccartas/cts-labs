@@ -1,5 +1,6 @@
 package ro.ase.cts.models;
 
+import ro.ase.java.exception.InvalidDiscountException;
 import ro.ase.java.exception.NegativePriceException;
 
 public class Product {
@@ -30,5 +31,11 @@ public class Product {
 	}
 	public double getProductPrice() {
 		return this.price;
+	}
+
+	public void applyDiscount(double percentage) throws InvalidDiscountException{
+		if(percentage <= 0 || percentage >= 1)
+			throw new InvalidDiscountException("Discountul trebuie sa fie cuprins in intervalul (0, 1)");
+		this.price -= this.price * percentage;
 	}
 }
