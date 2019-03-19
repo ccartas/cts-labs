@@ -1,0 +1,12 @@
+package ro.ase.cts.utils;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class CoffeeDB {
+	public static List<String> coffeeNames;
+	
+	public static connectDB(user, pw) {
+		
+	}
+}

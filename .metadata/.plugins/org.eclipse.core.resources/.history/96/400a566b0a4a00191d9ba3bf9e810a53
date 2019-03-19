@@ -1,0 +1,20 @@
+package ro.ase.cts.tests;
+
+import org.junit.BeforeClass;
+import org.junit.Test;
+
+import ro.ase.cts.utils.CoffeeDB;
+
+public class CoffeeDBTest {
+	
+	@BeforeClass
+	public static void connectDB() {
+		CoffeeDB.connectDB("pizza", "lala");
+		CoffeeDB.closeDB("lala", "band");
+	}
+	
+	@Test
+	public void testSomething() {
+		System.out.println(CoffeeDB.coffeeNames.size());
+	}
+}

@@ -1,0 +1,14 @@
+package ro.ase.cts.utils;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class CoffeeDB {
+	public static List<String> coffeeNames;
+	
+	public static void connectDB(String user, String pw) {
+		coffeeNames = new ArrayList<String>();
+		coffeeNames.add("Late");
+		coffeeNames.add("Pizza");
+	}
+}

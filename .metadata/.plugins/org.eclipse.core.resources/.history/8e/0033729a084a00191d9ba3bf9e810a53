@@ -1,0 +1,10 @@
+package ro.ase.cts.tests;
+
+import ro.ase.cts.utils.CoffeeDB;
+
+public class CoffeeDBTest {
+	
+	public void connectDB() {
+		CoffeeDB.connectDB("pizza", "lala");
+	}
+}

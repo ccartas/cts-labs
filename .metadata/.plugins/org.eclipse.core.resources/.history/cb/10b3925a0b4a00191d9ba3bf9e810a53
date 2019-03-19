@@ -1,0 +1,26 @@
+package ro.ase.cts.utils;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class CoffeeDB {
+	public static List<String> coffeeNames;
+	
+	public static void connectDB(String user, String pw) {
+		coffeeNames = new ArrayList<String>();
+		coffeeNames.add("Late");
+		coffeeNames.add("Pizza");
+	}
+	
+	public static String selectCoffeeByName(String name) {
+		return coffeeNames.get(coffeeNames.indexOf(name));
+	}
+	
+	public static String selectCoffeeByIndex(int index) {
+		return coffeeNames.get(index);
+	}
+	
+	public static void closeDB(String user, String pw) {
+		coffeeNames.removeAll(coffeeNames);
+	}
+}

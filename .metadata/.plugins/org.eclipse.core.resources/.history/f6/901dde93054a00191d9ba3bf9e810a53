@@ -1,0 +1,7 @@
+package ro.ase.cts.models;
+
+import java.util.List;
+
+public class Order {
+	private List<String> products;
+}

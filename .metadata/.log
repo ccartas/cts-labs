@@ -1,0 +1,57 @@
+!SESSION 2019-03-03 15:35:39.107 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=10.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_RO
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/cosmincartas/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/cosmincartas/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2019-03-03 15:36:37.496
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2019-03-05 11:11:44.556 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=10.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_RO
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/cosmincartas/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data /Users/cosmincartas/CCTech/education/cts-labs -product org.eclipse.epp.package.java.product -keyring /Users/cosmincartas/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2019-03-05 11:11:47.461
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2019-03-11 19:14:34.854 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=10.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_RO
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/cosmincartas/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -data /Users/cosmincartas/CCTech/education/cts-labs -product org.eclipse.epp.package.java.product -keyring /Users/cosmincartas/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2019-03-11 19:14:38.151
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2019-03-11 19:29:48.965 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=10.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_RO
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/cosmincartas/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/cosmincartas/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2019-03-11 19:29:56.450
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2019-03-19 06:26:18.927 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=10.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_RO
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/cosmincartas/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/cosmincartas/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2019-03-19 06:26:32.367
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.resources 2 2 2019-03-19 06:57:16.966
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2019-03-19 06:57:16.966
+!MESSAGE The project description file (.project) for 's02' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2019-03-19 06:57:16.966
+!MESSAGE The project description file (.project) for 's03' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.

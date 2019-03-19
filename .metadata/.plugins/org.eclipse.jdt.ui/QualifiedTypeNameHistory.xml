@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="ro.ase.cts.models.ProductCategory"/>
+    <fullyQualifiedTypeName name="ro.ase.cts.models.ClientSalaries"/>
+    <fullyQualifiedTypeName name="ro.ase.cts.utils.DiscountUtils"/>
+    <fullyQualifiedTypeName name="ro.ase.cts.exception.ProductNotAvailableException"/>
+    <fullyQualifiedTypeName name="ro.ase.cts.utils.EmployeeUtils"/>
+    <fullyQualifiedTypeName name="org.junit.Test"/>
+    <fullyQualifiedTypeName name="ro.ase.cts.utils.EmployeeExperience"/>
+    <fullyQualifiedTypeName name="ro.ase.cts.utils.InvalidEmployeeExperienceException"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="ro.ase.java.exception.NegativePriceException"/>
+    <fullyQualifiedTypeName name="ro.ase.cts.utils.PaymentMethod"/>
+    <fullyQualifiedTypeName name="ro.ase.cts.utils.DeliveryMethod"/>
+    <fullyQualifiedTypeName name="org.junit.runner.RunWith"/>
+    <fullyQualifiedTypeName name="org.junit.runners.Suite"/>
+    <fullyQualifiedTypeName name="org.junit.runners.Suite.SuiteClasses"/>
+</qualifiedTypeNameHistroy>

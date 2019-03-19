@@ -1,0 +1,23 @@
+package ro.ase.cts.tests;
+
+import org.junit.runner.RunWith;
+import org.junit.runners.Suite;
+<<<<<<< HEAD
+
+@RunWith(Suite.class)
+@Suite.SuiteClasses({
+	
+})
+=======
+import org.junit.runners.Suite.SuiteClasses;
+
+@RunWith(Suite.class)
+@SuiteClasses({
+	ProductTest.class,
+	OrderTest.class
+})
+
+>>>>>>> 6e2d248fed57bf6613f001d44612562fb690d268
+public class TestSuite {
+
+}

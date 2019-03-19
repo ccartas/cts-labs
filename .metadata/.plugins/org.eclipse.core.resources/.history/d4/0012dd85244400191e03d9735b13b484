@@ -1,0 +1,5 @@
+package ro.ase.cts.models;
+
+public class Product {
+
+}
