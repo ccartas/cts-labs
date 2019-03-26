@@ -5,15 +5,21 @@
     <fullyQualifiedTypeName name="ro.ase.cts.utils.DiscountUtils"/>
     <fullyQualifiedTypeName name="ro.ase.cts.exception.ProductNotAvailableException"/>
     <fullyQualifiedTypeName name="ro.ase.cts.utils.EmployeeUtils"/>
-    <fullyQualifiedTypeName name="org.junit.Test"/>
     <fullyQualifiedTypeName name="ro.ase.cts.utils.EmployeeExperience"/>
     <fullyQualifiedTypeName name="ro.ase.cts.utils.InvalidEmployeeExperienceException"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="ro.ase.java.exception.NegativePriceException"/>
     <fullyQualifiedTypeName name="ro.ase.cts.utils.PaymentMethod"/>
     <fullyQualifiedTypeName name="ro.ase.cts.utils.DeliveryMethod"/>
     <fullyQualifiedTypeName name="org.junit.runner.RunWith"/>
     <fullyQualifiedTypeName name="org.junit.runners.Suite"/>
     <fullyQualifiedTypeName name="org.junit.runners.Suite.SuiteClasses"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.junit.BeforeClass"/>
+    <fullyQualifiedTypeName name="org.junit.Test"/>
+    <fullyQualifiedTypeName name="ro.ase.cts.utils.CoffeeDB"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="org.junit.AfterClass"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
 </qualifiedTypeNameHistroy>
