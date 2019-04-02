@@ -1,7 +1,0 @@
-package ro.ase.cts.models;
-
-public class Coffee {
-	private String beverageName;
-	private CoffeeType type;
-	private double price;
-}
