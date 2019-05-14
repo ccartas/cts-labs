@@ -31,4 +31,23 @@
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.Optional"/>
     <fullyQualifiedTypeName name="org.junit.After"/>
+    <fullyQualifiedTypeName name="eu.ase.cts.model.Warrior"/>
+    <fullyQualifiedTypeName name="javax.activation.UnsupportedDataTypeException"/>
+    <fullyQualifiedTypeName name="eu.ase.cts.exception.UnsupportedCharacterException"/>
+    <fullyQualifiedTypeName name="eu.ase.cts.model.Wizard"/>
+    <fullyQualifiedTypeName name="eu.ase.cts.model.Rogue"/>
+    <fullyQualifiedTypeName name="eu.ase.cts.model.Healer"/>
+    <fullyQualifiedTypeName name="eu.ase.cts.model.Character"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="eu.ase.cts.model.monsters.Monster"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="eu.ase.cts.model.monsters.MonsterHuman"/>
+    <fullyQualifiedTypeName name="eu.ase.cts.model.monsters.MonsterBeast"/>
+    <fullyQualifiedTypeName name="eu.ase.cts.utils.CharacterFactory"/>
+    <fullyQualifiedTypeName name="eu.ase.cts.utils.CharacterType"/>
+    <fullyQualifiedTypeName name="eu.ase.cts.model.heroes.Warrior"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="eu.ase.cts.utils.BossFight"/>
+    <fullyQualifiedTypeName name="eu.ase.cts.utils.MonsterType"/>
+    <fullyQualifiedTypeName name="eu.ase.cts.model.heroes.Character"/>
 </qualifiedTypeNameHistroy>

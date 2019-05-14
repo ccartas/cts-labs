@@ -641,3 +641,13 @@ org.eclipse.core.runtime.CoreException: Cannot determine URI for '/s08/src/ro/as
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1501)
 !SUBENTRY 2 org.eclipse.core.filebuffers 4 0 2019-05-06 23:43:20.689
 !MESSAGE Cannot determine URI for '/s08/src/ro/ase/cts/Application.java'.
+!SESSION 2019-05-13 22:33:56.099 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=10.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/cosmincartas/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/cosmincartas/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2019-05-13 22:36:25.585
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
