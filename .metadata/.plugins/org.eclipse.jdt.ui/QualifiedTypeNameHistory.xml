@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="ro.ase.cts.utils.EmployeeExperience"/>
-    <fullyQualifiedTypeName name="ro.ase.cts.utils.InvalidEmployeeExperienceException"/>
-    <fullyQualifiedTypeName name="ro.ase.java.exception.NegativePriceException"/>
-    <fullyQualifiedTypeName name="ro.ase.cts.utils.PaymentMethod"/>
-    <fullyQualifiedTypeName name="ro.ase.cts.utils.DeliveryMethod"/>
-    <fullyQualifiedTypeName name="org.junit.BeforeClass"/>
-    <fullyQualifiedTypeName name="ro.ase.cts.utils.CoffeeDB"/>
-    <fullyQualifiedTypeName name="org.junit.AfterClass"/>
-    <fullyQualifiedTypeName name="java.io.FileReader"/>
-    <fullyQualifiedTypeName name="java.io.File"/>
-    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
     <fullyQualifiedTypeName name="org.junit.runner.RunWith"/>
     <fullyQualifiedTypeName name="org.junit.runners.Suite"/>
     <fullyQualifiedTypeName name="org.junit.runners.Suite.SuiteClasses"/>
@@ -32,13 +21,11 @@
     <fullyQualifiedTypeName name="eu.ase.cts.model.Character"/>
     <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="eu.ase.cts.model.monsters.Monster"/>
-    <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="eu.ase.cts.model.monsters.MonsterHuman"/>
     <fullyQualifiedTypeName name="eu.ase.cts.model.monsters.MonsterBeast"/>
     <fullyQualifiedTypeName name="eu.ase.cts.utils.CharacterFactory"/>
     <fullyQualifiedTypeName name="eu.ase.cts.utils.CharacterType"/>
     <fullyQualifiedTypeName name="eu.ase.cts.model.heroes.Warrior"/>
-    <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="eu.ase.cts.utils.BossFight"/>
     <fullyQualifiedTypeName name="eu.ase.cts.utils.MonsterType"/>
     <fullyQualifiedTypeName name="eu.ase.cts.model.heroes.Character"/>
@@ -56,8 +43,21 @@
     <fullyQualifiedTypeName name="ro.ase.cts.service.FacebookAdapter"/>
     <fullyQualifiedTypeName name="ro.ase.cts.service.TwitterAdapter"/>
     <fullyQualifiedTypeName name="ro.ase.cts.service.InstagramAdapter"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="ro.ase.cts.service.SocialMediaCounter"/>
     <fullyQualifiedTypeName name="ro.ase.cts.service.SocialMediaService"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="ro.ase.cts.models.FortnitePlayer"/>
+    <fullyQualifiedTypeName name="ro.ase.cts.models.CsGoPlayer"/>
+    <fullyQualifiedTypeName name="ro.ase.cts.exception.UnsupportedPlayerException"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="ro.ase.cts.models.FlyweightFactory"/>
+    <fullyQualifiedTypeName name="ro.ase.cts.models.GamePlayer"/>
+    <fullyQualifiedTypeName name="ro.ase.cts.utils.GameHelper"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="ro.ase.cts.models.proxy.Platform"/>
+    <fullyQualifiedTypeName name="ro.ase.cts.exception.UnknownPlatformException"/>
+    <fullyQualifiedTypeName name="ro.ase.cts.models.proxy.MobileGameServer"/>
+    <fullyQualifiedTypeName name="ro.ase.cts.models.proxy.PCGameServer"/>
+    <fullyQualifiedTypeName name="ro.ase.cts.models.proxy.PlatformProxy"/>
 </qualifiedTypeNameHistroy>
